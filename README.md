@@ -121,4 +121,6 @@ CREATE TABLE health_logs (
 ```
 
 # Dokumentasi
-Dokumentasi demonstrasi fitur CRUD dan pengoperasian sistem dapat dilihat pada berkas video di folder `Dokumentasi/Record.mp4`.
+https://github.com/user-attachments/assets/cdce5e99-6596-4125-90f9-33440a2d9e9a
+
+
